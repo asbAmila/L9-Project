@@ -6,6 +6,6 @@
 
 <body>
     <h2>This is contact page</h2>
-    <a href="{{ro}}"></a>
+    <a href="#"></a>
 </body>
 </html>
